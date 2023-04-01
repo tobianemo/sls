@@ -1,0 +1,197 @@
+/* CSS Document */
+
+/*
+	font-family: 'Fredericka the Great', cursive;
+	font-family: 'Gruppo', cursive;
+	font-family: 'Londrina Outline', cursive;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Source Serif Pro', serif;
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	
+}
+
+.hnav {
+	text-align: center;
+	height: 50px;
+	border-bottom: 10px groove #527C88;
+	padding-top: 20px;
+	background-color: #fff;
+}
+
+.hnav a {
+	text-decoration: none;
+	padding: 75px;
+	font-family: 'Gruppo', cursive;
+	font-size: 1.75em;
+	color: #698CB4;
+}
+
+.hnav a:hover {
+	font-family: 'Fredericka the Great', cursive;
+	color: #283345;
+}
+
+header {
+	height: 600px;
+	background-image: url("../images/slsHeroImage.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	border-bottom: 10px ridge #527c88;
+}
+
+h1 {
+	text-align: right;
+	padding: 15% 17% 0 0;
+	font-size: 3em;
+	font-family: 'Fredericka the Great', cursive;
+	color: #fff;
+}
+
+h2 {
+	text-align: right;
+	padding-right: 14.5%;
+	font-family: 'Londrina Outline', cursive;
+	font-size: 2em;
+	margin-top: -10px;
+	color: #BABABA;
+}
+
+blockquote {
+	padding: 4% 0 2% 15%;
+	font-size: 4em;
+	font-family: 'Gruppo', cursive;
+}
+
+main p {
+	padding: 2%;
+	width: 80%;
+	margin: 0 auto;
+	font-size: 25px;
+	font-family: 'Source Serif Pro', serif;
+}
+
+b, i {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#history img {
+	width: 35%;
+	padding: 5% 2% 5% 10%;
+}
+
+#ecology img {
+	padding-left: 35%;
+}
+
+main ol {
+	margin: 0 auto;
+	padding: 2% 2% 2% 15%;
+	font-size: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+main ul {
+	margin: 0 auto;
+	padding: 2% 2% 2% 15%;
+	font-size: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+main img {
+	padding: 0 0 5% 14%;
+}
+
+table {
+	padding: 2% 0% 5% 5%;
+}
+
+legend {
+	padding-top: 5%;
+	font-size: 25px;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+tr {
+	font-size: 2em;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+#fName, #lName, #address, #city, #state, #zip, #email {
+	background-color: #527c88;
+	padding: 2% 45% 2% 2%;
+	border-radius: 20px;
+	border: 5px groove #698CB4;
+}
+
+.btn {
+	margin-top: 5%;
+	font-size: 1em;
+	background-color: #527c88;
+	padding: 2%;
+	border-radius: 20px;
+}
+
+.btn:hover {
+	border: 5px groove #698CB4;
+	padding: 1.5%;
+}
+
+.fnav {
+	text-align: center;
+	height: 75px;
+	border-bottom: 10px groove #527C88;
+	padding-top: 50px;
+	background-color: #fff;
+	border-top: 10px ridge #527c88;
+}
+
+.fnav a {
+	text-decoration: none;
+	padding: 75px;
+	font-family: 'Gruppo', cursive;
+	font-size: 1.75em;
+	color: #698CB4;
+}
+
+.fnav a:hover {
+	font-family: 'Fredericka the Great', cursive;
+	color: #283345;
+}
+
+footer {
+	text-align: center;
+	padding: 75px 0;
+	background-color: #283345;
+	color: #F8F1E9;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+footer p {
+	padding: 5px;
+}
+
+footer h4 {
+	padding-top: 15px;
+}
+
+footer a {
+	color: #92A093;
+	font-family: 'Source Serif Pro', serif;
+}
+
+
+
+
+
+
+
+
